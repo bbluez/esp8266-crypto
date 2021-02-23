@@ -342,10 +342,10 @@ void printPrice(float price){
     char priceBuf[20];
     // Construct the price string
     if(price<10){
-      sprintf(priceBuf, "D%.2f", price);
+      sprintf(priceBuf, "D%.3f", price);
     }
     else {
-      sprintf(priceBuf, "D%.2f", price);
+      sprintf(priceBuf, "D%.3f", price);
     }
     // To center the price we need to get the size it will be on the OLED
     int16_t x1, y1;
