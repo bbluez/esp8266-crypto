@@ -1,17 +1,20 @@
 # ESP8266 Crypto
-ESP8266 project to display cryptocurrency prices on an OLED (Adafruit SSD1306)
+ESP8266 project to display cryptocurrency prices on an OLED (Adafruit SSD1306). MNodified to use Dollars and some custome stonks images. 
 
-![Demo GIF](/images/gif_demo.gif?raw=true "Demo GIF")
+![Demo GIF](/images/ex1gif.gif?raw=true "Demo GIF")
+![Demo GIF](/images/ex2gif.gif?raw=true "Demo GIF")
 
 The code is fully commented and it should be easy to add/remove coins as desired.
 
 ## Demo Images
-![BTC Demo](/images/btc_demo.jpg?raw=true "BTC Demo")
-![Stellar Demo](/images/xlm_demo.jpg?raw=true "Stellar Demo")
-![ETH Demo](/images/eth_demo.jpg?raw=true "ETH Demo")
+![Demo](/images/ex1.jpg?raw=true "Demo")
+![Demo](/images/ex2.jpg?raw=true "Demo")
+![Demo](/images/ex3.jpg?raw=true "Demo")
+
+
 
 ## License (MIT)
-Copyright (c) 2021 Conor Walsh 
+Copyright (c) 2021 Conor Walsh forked by Bryan uhri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
