@@ -2,7 +2,7 @@
 ESP8266 project to display cryptocurrency prices on an OLED (Adafruit SSD1306). MNodified to use Dollars and some custome stonks images. 
 
 ![Demo GIF](/images/ex1gif.gif?raw=true "Demo GIF")
-![Demo GIF](/images/ex2gif.gif?raw=true "Demo GIF")
+![Demo GIF2](/images/ex2gif.gif?raw=true "Demo GIF2")
 
 The code is fully commented and it should be easy to add/remove coins as desired.
 
