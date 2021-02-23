@@ -17,8 +17,8 @@
 /**** Setup ****/
 
 // WIFI Network name and password
-#define WIFI_SSID "Team BA Home"
-#define WIFI_PASS "Powerhouse!"
+#define WIFI_SSID "XXXXX"
+#define WIFI_PASS "XXXXX"
 
 // Setup time in seconds
 #define SETUP_TIME 4
